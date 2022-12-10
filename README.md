@@ -12,4 +12,5 @@ Sonuç olarak, matematik, hayatımızda sıklıkla kullandığımız ve önemli 
 
 ayrıca matematik korkusu için ele alınmış bu makaleyi de inceleyebilirsiniz 
 
-[MATEMATİK NEDEN BENİ KAYGILANDIRIR] (https://dergipark.org.tr/en/download/article-file/226051) 
+
+[MATEMATİK NEDEN BENİ KAYGILANDIRIR](https://dergipark.org.tr/en/download/article-file/226051)
